@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**JDConejeros/JDConejeros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Master's student in Statistics and Sociology at the Pontificia Universidad Católica de Chile. I do research on infectious diseases, bacterial resistance & social vulnerabilities. 
 
-Here are some ideas to get you started:
+I teach classes on R, data science, visualization techniques & causal inference. I am currently preparing to apply to a ✨ doctoral program in statistics in 2024 ✨. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can find me online at all these places:
+
+🏠 [Personal website and blog](https://jd-conejeros.com/)
+🐦 [Twitter](https://twitter.com/Jose_Conejeros)
+💼 [LinkedIn](https://www.linkedin.com/in/joseconejerosp/)
+
+I invite you to read my CV in [ESP](https://jd-conejeros.com/CV/CV_Spanish_acad.pdf) or [ENG](https://jd-conejeros.com/CV/CV_English_acad.pdf)
+
+- 🔭 I’m currently working on my thesis in statistics
+- 🌱 I’m currently learning Quarto webpage
+- 😄 Pronouns: He
+- ⚡ Fun fact: I have a greyhound
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=JDConejeros)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JDConejeros&hide=html,jupyter%20notebook,JavaScript,PostScript,SCSS,Less&layout=compact&langs_count=10)
