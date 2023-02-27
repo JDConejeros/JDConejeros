@@ -7,9 +7,7 @@ I teach classes on R, data science, visualization techniques & causal inference.
 You can find me online at all these places:
 
 🏠 [Personal website and blog](https://jd-conejeros.com/)
-
 🐦 [Twitter](https://twitter.com/Jose_Conejeros)
-
 💼 [LinkedIn](https://www.linkedin.com/in/joseconejerosp/)
 
 I invite you to read my CV in [ESP](https://jd-conejeros.com/CV/CV_Spanish_acad.pdf) or [ENG](https://jd-conejeros.com/CV/CV_English_acad.pdf)
@@ -19,6 +17,5 @@ I invite you to read my CV in [ESP](https://jd-conejeros.com/CV/CV_Spanish_acad.
 - 😄 Pronouns: He
 - ⚡ Fun fact: I have a greyhound
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=JDConejeros)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JDConejeros&hide=html,jupyter%20notebook,JavaScript,PostScript,SCSS,Less&layout=compact&langs_count=10)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JDConejeros&show_icons=true&theme=radical)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JDConejeros&hide=html,jupyter%20notebook,JavaScript,PostScript,SCSS,Less&layout=compact&langs_count=10&theme=radical)
