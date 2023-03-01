@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+![](https://komarev.com/ghpvc/?username=JDConejeros&style=flat-square&theme=tokyonight)
+
 I am a Master's student in Statistics and Sociology at the Pontificia Universidad Católica de Chile. I do research on infectious diseases, bacterial resistance & social vulnerabilities. 
 
 I teach classes on R, data science, visualization techniques & causal inference. I am currently preparing to apply to a ✨ doctoral program in statistics in 2024 ✨. 
