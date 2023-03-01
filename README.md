@@ -15,5 +15,13 @@ I invite you to **read my CV in [ESP](https://jd-conejeros.com/CV/CV_Spanish_aca
 - 😄 Pronouns: He
 - ⚡ Fun fact: I have a greyhound
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JDConejeros&show_icons=true&theme=radical)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JDConejeros&hide=html,jupyter%20notebook,JavaScript,PostScript,SCSS,Less&layout=compact&langs_count=10&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JDConejeros&show_icons=true&theme=tokyonight)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JDConejeros&layout=compact&langs_count=10&theme=tokyonight)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JDConejeros&theme=tokyonight) 
+<!---![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JDConejeros&theme=tokyonight&utcOffset=8)
+#![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JDConejeros&theme=tokyonight) -->
+
+
+
+
