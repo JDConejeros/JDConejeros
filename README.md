@@ -2,6 +2,8 @@
 
 
 ![](https://komarev.com/ghpvc/?username=JDConejeros&style=flat-square&theme=tokyonight)
+[![jhc twitter](https://img.shields.io/badge/Twitter-@Jose_Conejeros-00aced.svg?style=flat&logo=twitter)](https://twitter.com/Jose_Conejeros)
+[![R](https://img.shields.io/badge/-script-276DC3.svg?style=flat&logo=R)](https://cran.r-project.org)
 
 I am a Master's student in Statistics and Sociology at the Pontificia Universidad Católica de Chile. I do research on infectious diseases, bacterial resistance & social vulnerabilities. 
 
