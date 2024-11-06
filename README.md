@@ -5,13 +5,13 @@
 [![jhc twitter](https://img.shields.io/badge/Twitter-@Jose_Conejeros-00aced.svg?style=flat&logo=twitter)](https://twitter.com/Jose_Conejeros)
 [![R](https://img.shields.io/badge/-script-276DC3.svg?style=flat&logo=R)](https://cran.r-project.org)
 
-I am a Master's student in Statistics and Sociology at the Pontificia Universidad Católica de Chile. I do research on infectious diseases, bacterial resistance & social vulnerabilities. 
+I am a Master's degree in Statistics and Sociology at the Pontificia Universidad Católica de Chile. I do research on infectious diseases, bacterial resistance & social vulnerabilities. 
 
-I teach classes on R, data science, visualization techniques & causal inference. I am currently preparing to apply to a ✨ doctoral program in statistics in 2024 ✨. 
+I teach classes on R, data science, visualization techniques & causal inference. I am preparing to apply to a doctoral program in statistics in 2025 ✨. 
 
 You can find me online at all these places:
 
-🏠 [Personal website and blog](https://jd-conejeros.com/) | 🐦 [Twitter](https://twitter.com/Jose_Conejeros) | 💼 [LinkedIn](https://www.linkedin.com/in/joseconejerosp/)
+🏠 [Personal website and blog](https://jd-conejeros.com/) | 🐦 [X](https://twitter.com/Jose_Conejeros) | 💼 [LinkedIn](https://www.linkedin.com/in/joseconejerosp/)
 
 I invite you to **read my CV in [ESP](https://jd-conejeros.com/CV/CV_Spanish_acad.pdf) or [ENG](https://jd-conejeros.com/CV/CV_English_acad.pdf)**
 
