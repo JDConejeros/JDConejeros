@@ -114,11 +114,11 @@ I invite you to **read my CV in [ESP](https://jd-conejeros.com/CV/CV_Spanish_aca
       </p>
     </td>
   </tr>
-  <tr>
+  <!---!<tr>
     <td width="50%">
       <p align="center">
         <a href="https://github.com/JDConejeros">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=JDConejeros&limit=2&theme=dark&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,1b263b&title_color=9f9f9f&text_color=ffffff" alt="Top Repo" />
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=JDConejeros&limit=2&theme=dark&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,1b263b&title_color=9f9f9f&text_color=ffffff" alt="Top Repo" /> 
         </a>
       </p>
     </td>
@@ -129,7 +129,7 @@ I invite you to **read my CV in [ESP](https://jd-conejeros.com/CV/CV_Spanish_aca
         </a>
       </p>
     </td>
-  </tr>
+  </tr> -->
 </table>
 <br />
 
