@@ -97,7 +97,7 @@ I invite you to **read my CV in [ESP](https://jd-conejeros.com/CV/CV_Spanish_aca
 
 <!--Github stats Table--> 
 
-<!---!<table width="100%">
+<table width="100%">
   <tr>
     <td width="50%">
       <p align="center">
@@ -133,13 +133,14 @@ I invite you to **read my CV in [ESP](https://jd-conejeros.com/CV/CV_Spanish_aca
 </table>
 <br />
 
-<!---![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JDConejeros&theme=tokyonight) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JDConejeros&theme=tokyonight) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JDConejeros&theme=tokyonight&utcOffset=8)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=JDConejeros&show_icons=true&theme=dark)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=JDConejeros&theme=dark)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JDConejeros&layout=compact&theme=dark)
-#![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JDConejeros&theme=tokyonight) -->
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JDConejeros&theme=tokyonight) 
 
+
+<!---![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=JDConejeros&show_icons=true&theme=dark)
+<!---![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=JDConejeros&theme=dark)
+<!---![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JDConejeros&layout=compact&theme=dark)-->
 
 
 
