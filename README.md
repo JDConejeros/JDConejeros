@@ -91,8 +91,6 @@ I invite you to **read my CV in [ESP](https://jd-conejeros.com/CV/CV_Spanish_aca
 - Machine learning methods for epidemiology
 - Reproducible research infrastructure with Quarto & Targets
 
-I love this: 
-
 ![Simulación R₀](https://github.com/JDConejeros/R0_animation/blob/main/assets/r0_simulation.gif)
 
 💬 Ask me about **R, Python, statistical modeling, causal inference, GLMs, mixed models,  spatio-temporal analysis, climate & health, infectious diseases, open science**
