@@ -49,13 +49,6 @@ I invite you to **read my CV in [ESP](https://jd-conejeros.com/CV/CV_Spanish_aca
 
 ⚡ Fun fact **I have a greyhound called Klaus, who keeps me company during long coding sessions 🐕💻**
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/JDConejeros" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="JDConejeros" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/joseconejerosp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joseconejerosp" height="30" width="40" /></a>
-</p>
-
 <!--Github stats Table-->
 
 <table width="100%">
