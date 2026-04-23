@@ -5,11 +5,8 @@
 [![R](https://img.shields.io/badge/-script-276DC3.svg?style=flat&logo=R)](https://cran.r-project.org)
 [![Buy me a coffee](https://img.shields.io/badge/Support%20my%20research-2ECC71.svg?style=flat&logo=buymeacoffee&logoColor=white)](https://buymeacoffee.com/joconejerov)
 
-<p align="left">
-
-<!-- Core statistical programming -->
-
-<a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
+<div style="display:flex;gap:8px;align-items:center;flex-wrap:wrap;">
+  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=r" alt="r" width="40" height="40"/>
   </a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
@@ -18,10 +15,7 @@
   <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=matlab" alt="matlab" width="40" height="40"/>
   </a>
-
-<!-- Data science & ML -->
-
-<a href="https://numpy.org/" target="_blank" rel="noreferrer">
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
   </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
@@ -33,34 +27,22 @@
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/>
   </a>
-
-<!-- Scientific computing & visualization -->
-
-<a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
   </a>
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/>
   </a>
-
-<!-- Reproducibility & Open Science -->
-
-<a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
+  <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=latex" alt="latex" width="40" height="40"/>
   </a>
   <a href="https://osf.io/" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/osf/2F80ED" alt="osf" width="40" height="40"/>
   </a>
-
-<!-- Version control -->
-
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/>
   </a>
-
-<!-- Web / secondary -->
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/>
   </a>
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
@@ -69,8 +51,7 @@
   <a href="https://react.dev/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/>
   </a>
-
-</p>
+</div>
 
 I hold MSc degrees in Statistics and Sociology from Pontificia Universidad Católica de Chile. My research interests include infectious disease epidemiology, antibiotic resistance, and social vulnerability. I have teaching experience in R programming, data science, visualization techniques, and causal inference. I am preparing applications for PhD programs in 2026 ✨
 
