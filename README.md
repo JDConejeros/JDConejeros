@@ -51,7 +51,7 @@ I invite you to **read my CV in [ESP](https://jd-conejeros.com/CV/CV_Spanish_aca
 
 <!--Github stats Table-->
 
-<table width="100%">
+<!---!<table width="100%">
   <tr>
     <td width="50%">
       <p align="center">
@@ -68,7 +68,7 @@ I invite you to **read my CV in [ESP](https://jd-conejeros.com/CV/CV_Spanish_aca
       </p>
     </td>
   </tr>
-  <!---!<tr>
+  <tr>
     <td width="50%">
       <p align="center">
         <a href="https://github.com/JDConejeros">
